@@ -1,0 +1,7 @@
+Phân công công việc
+- Nam: đăng nhập/ký/xuất, QL sản phẩm
+- Hoài: quản lý Khách hàng, loại sp (Admin) 
+- Hưng: Xem sp, QL giỏ hàng, Liên hệ
+- Toàn: ql tài khoản, ql thống kê (doanh thu theo ngày tháng năm)
+- Vũ: Ql đơn hàng (người dùng, Admin)
+
