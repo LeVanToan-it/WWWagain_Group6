@@ -20,6 +20,11 @@ public class ProductController {
 	@Autowired
 	private ProductService productService;
 	
+	@GetMapping("/home")
+	public String showHome() {
+		return "home";
+	}
+	
 	@GetMapping("/list")
 	public String listProduct(Model model) {
 		List<Product> products = productService.getAllProduct();
